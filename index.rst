@@ -135,19 +135,6 @@ fixes, and users are encouraged to upgrade to the latest production release.
   (`Download PDF 
   <https://doc.owncloud.org/server/6.0/ownCloudAdminManual.pdf>`_)
  
-------------------------------
-ownCloud Community Edition 5.0
-------------------------------
-
-This documents the *deprecated* ownCloud release. Users are encouraged to 
-upgrade to the latest production release.
-
-* `User Manual <https://doc.owncloud.org/server/5.0/user_manual/>`_ (`Download 
-  PDF <https://doc.owncloud.org/server/6.0/ownCloudUserManual.pdf>`_)
-* `Administrator Manual <https://doc.owncloud.org/server/5.0/admin_manual/>`_ 
-  (`Download PDF 
-  <https://doc.owncloud.org/server/5.0/ownCloudAdminManual.pdf>`_)
-  
 -------------------------------------
 Previous ownCloud Enterprise Editions
 -------------------------------------
