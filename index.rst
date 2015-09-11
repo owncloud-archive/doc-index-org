@@ -25,10 +25,10 @@ ownCloud 8.2
 This documents the *development* version of ownCloud.
 
 * `User Manual <https://doc.owncloud.org/server/8.2/user_manual/>`_ (`Download 
-  PDF <https://doc.owncloud.org/server/8.2/ownCloudUserManual.pdf>`_)
+  PDF <https://doc.owncloud.org/server/8.2/ownCloud_User_Manual.pdf>`_)
 * `Administration Manual <https://doc.owncloud.org/server/8.2/admin_manual/>`_ 
   (`Download PDF   
-  <https://doc.owncloud.org/server/8.2/ownCloudServerAdminManual.pdf>`_)
+  <https://doc.owncloud.org/server/8.2/ownCloud_Server_Administration_Manual.pdf>`_)
 * `Developer Manual <https://doc.owncloud.org/server/8.2/developer_manual/>`_ 
   (`Download PDF 
   <https://doc.owncloud.org/server/8.2/ownCloudDeveloperManual.pdf>`_)
@@ -40,10 +40,10 @@ ownCloud 8.1
 This documents the *latest production* version of ownCloud.
 
 * `User Manual <https://doc.owncloud.org/server/8.1/user_manual/>`_ (`Download 
-  PDF <https://doc.owncloud.org/server/8.1/ownCloudUserManual.pdf>`_)
+  PDF <https://doc.owncloud.org/server/8.1/ownCloud_User_Manual.pdf>`_)
 * `Administration Manual <https://doc.owncloud.org/server/8.1/admin_manual/>`_ 
   (`Download PDF   
-  <https://doc.owncloud.org/server/8.1/ownCloudServerAdminManual.pdf>`_)
+  <https://doc.owncloud.org/server/8.1/ownCloud_Server_Administration_Manual.pdf>`_)
 * `Developer Manual <https://doc.owncloud.org/server/8.1/developer_manual/>`_ 
   (`Download PDF 
   <https://doc.owncloud.org/server/8.1/ownCloudDeveloperManual.pdf>`_) 
@@ -56,10 +56,10 @@ This documents the *previous production* version of ownCloud, Server and
 Enterprise Subscription.
 
 * `User Manual <https://doc.owncloud.org/server/8.0/user_manual/>`_ (`Download 
-  PDF <https://doc.owncloud.org/server/8.0/ownCloudUserManual.pdf>`_)
+  PDF <https://doc.owncloud.org/server/8.0/ownCloud_User_Manual.pdf>`_)
 * `Administration Manual <https://doc.owncloud.org/server/8.0/admin_manual/>`_ 
   (`Download PDF   
-  <https://doc.owncloud.org/server/8.0/ownCloudServerAdminManual.pdf>`_) 
+  <https://doc.owncloud.org/server/8.0/ownCloud_Server_Administration_Manual.pdf>`_) 
 * `Developer Manual <https://doc.owncloud.org/server/8.0/developer_manual/>`_ 
   (`Download PDF 
   <https://doc.owncloud.org/server/8.0/ownCloudDeveloperManual.pdf>`_)
