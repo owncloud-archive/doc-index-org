@@ -140,5 +140,5 @@ Previous ownCloud Enterprise Editions
 -------------------------------------
 
 You'll find all admin and user manuals for older ownCloud Enterprise editions 
-(7.0, 6.0, and 5.0) at the ownCloud Documentation Overview on 
+(7.0EE and 6.0EE) at the ownCloud Documentation Overview on 
 `doc.owncloud.com <http://doc.owncloud.com/>`_.
