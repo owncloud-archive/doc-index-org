@@ -64,21 +64,6 @@ Enterprise Subscription.
   (`Download PDF 
   <https://doc.owncloud.org/server/8.0/ownCloudDeveloperManual.pdf>`_)
 
-------------------------------
-ownCloud Community Edition 7.0
-------------------------------
-
-This documents the ownCloud 7.0 release, suitable for production use.
-
-* `User Manual <https://doc.owncloud.org/server/7.0/user_manual/>`_ (`Download 
-  PDF <https://doc.owncloud.org/server/7.0/ownCloudUserManual.pdf>`_)
-* `Administrator Manual <https://doc.owncloud.org/server/7.0/admin_manual/>`_ 
-  (`Download PDF 
-  <https://doc.owncloud.org/server/7.0/ownCloudAdminManual.pdf>`_)
-* `Developer Manual <https://doc.owncloud.org/server/7.0/developer_manual/>`_ 
-  (`Download PDF 
-  <https://doc.owncloud.org/server/7.0/ownCloudDeveloperManual.pdf>`_)
-  
 ==============================
 Desktop Client and Mobile Apps
 ============================== 
@@ -121,6 +106,21 @@ ownCloud iOS App
 =======================
 Older ownCloud Releases
 =======================
+
+------------------------------
+ownCloud Community Edition 7.0
+------------------------------
+
+This documents the ownCloud 7.0 release, suitable for production use.
+
+* `User Manual <https://doc.owncloud.org/server/7.0/user_manual/>`_ (`Download 
+  PDF <https://doc.owncloud.org/server/7.0/ownCloudUserManual.pdf>`_)
+* `Administrator Manual <https://doc.owncloud.org/server/7.0/admin_manual/>`_ 
+  (`Download PDF 
+  <https://doc.owncloud.org/server/7.0/ownCloudAdminManual.pdf>`_)
+* `Developer Manual <https://doc.owncloud.org/server/7.0/developer_manual/>`_ 
+  (`Download PDF 
+  <https://doc.owncloud.org/server/7.0/ownCloudDeveloperManual.pdf>`_)
 
 ------------------------------
 ownCloud Community Edition 6.0
