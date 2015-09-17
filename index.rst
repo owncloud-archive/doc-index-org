@@ -7,8 +7,8 @@ Getting ownCloud
 ----------------
 
 You can download and install ownCloud on your own Linux server, use the Web 
-Installer to install it on shared Web hosting, try some prefab cloud images, 
-or sign up for hosted ownCloud services. See the `Get Started 
+Installer to install it on shared Web hosting, try some prefab cloud or virtual 
+machine images, or sign up for hosted ownCloud services. See the `Get Started 
 <https://owncloud.org/install/>`_ page for more information.
  
 ------------------------------------------------
@@ -17,6 +17,9 @@ Reporting Documentation Bugs & How to Contribute
 
 If you find an error or omission in any of the manuals, we welcome your bug 
 reports and contributions. Please see :doc:`howto_contribute` for instructions.
+
+Starting with ownCloud 8.0, the community and enterprise server administration 
+manuals are combined.
 
 ------------
 ownCloud 8.2
@@ -103,15 +106,16 @@ ownCloud iOS App
 * `ownCloud iOS App Manual <https://doc.owncloud.org/ios/>`_ (`Download PDF 
   <https://doc.owncloud.org/ios/ownCloudiOSAppManual.pdf>`_)  
 
-=======================
-Older ownCloud Releases
-=======================
+==============================
+Older ownCloud Server Releases
+==============================
 
 ------------------------------
 ownCloud Community Edition 7.0
 ------------------------------
 
-This documents the ownCloud 7.0 release, suitable for production use.
+This documents the *older* ownCloud release. Users are encouraged to upgrade to 
+the latest production release. 
 
 * `User Manual <https://doc.owncloud.org/server/7.0/user_manual/>`_ (`Download 
   PDF <https://doc.owncloud.org/server/7.0/ownCloudUserManual.pdf>`_)
@@ -121,12 +125,26 @@ This documents the ownCloud 7.0 release, suitable for production use.
 * `Developer Manual <https://doc.owncloud.org/server/7.0/developer_manual/>`_ 
   (`Download PDF 
   <https://doc.owncloud.org/server/7.0/ownCloudDeveloperManual.pdf>`_)
+  
+-------------------------------
+ownCloud Enterprise Edition 7.0
+-------------------------------
+
+This documents the *older* ownCloud enterprise release. Users are encouraged to 
+upgrade to the latest production release.
+
+* `User Manual <https://doc.owncloud.com/server/7.0EE/user_manual/>`_ 
+  (`Download 
+  PDF <https://doc.owncloud.com/server/7.0EE/ownCloudEEUserManual.pdf>`_)
+* `Administrator Manual <https://doc.owncloud.com/server/7.0EE/admin_manual/>`_ 
+  (`Download PDF 
+  <https://doc.owncloud.com/server/7.0EE/ownCloudEEAdminManual.pdf>`_)
 
 ------------------------------
 ownCloud Community Edition 6.0
 ------------------------------
 
-This documents the *older* ownCloud release. ownCloud 6 receives security 
+This documents the *older* ownCloud release. ownCloud 6 receives only security 
 fixes, and users are encouraged to upgrade to the latest production release.
 
 * `User Manual <https://doc.owncloud.org/server/6.0/user_manual/>`_ (`Download 
@@ -135,10 +153,18 @@ fixes, and users are encouraged to upgrade to the latest production release.
   (`Download PDF 
   <https://doc.owncloud.org/server/6.0/ownCloudAdminManual.pdf>`_)
  
--------------------------------------
-Previous ownCloud Enterprise Editions
--------------------------------------
+-------------------------------
+ownCloud Enterprise Edition 6.0
+-------------------------------
 
-You'll find all admin and user manuals for older ownCloud Enterprise editions 
-(7.0EE and 6.0EE) at the ownCloud Documentation Overview on 
-`doc.owncloud.com <http://doc.owncloud.com/>`_.
+This documents the *older* ownCloud enterprise release. ownCloud 6 receives 
+only security 
+fixes, and users are encouraged to upgrade to the latest production release.
+
+* `User Manual <https://doc.owncloud.com/server/6.0EE/user_manual/>`_ 
+  (`Download 
+  PDF <https://doc.owncloud.com/server/6.0EE/ownCloudEEUserManual.pdf>`_) 
+* `Administrator Manual <https://doc.owncloud.com/server/6.0EE/admin_manual/>`_ 
+  (`Download PDF 
+  <https://doc.owncloud.com/server/6.0EE/ownCloudEnterpriseManual.pdf>`_)
+ 
