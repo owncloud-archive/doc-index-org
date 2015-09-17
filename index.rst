@@ -144,8 +144,8 @@ upgrade to the latest production release.
 ownCloud Community Edition 6.0
 ------------------------------
 
-This documents the *older* ownCloud release. ownCloud 6 receives only security 
-fixes, and users are encouraged to upgrade to the latest production release.
+This documents the *older* ownCloud release. ownCloud 6 is at end-of-life and 
+users are encouraged to upgrade to the latest production release.
 
 * `User Manual <https://doc.owncloud.org/server/6.0/user_manual/>`_ (`Download 
   PDF <https://doc.owncloud.org/server/6.0/ownCloudUserManual.pdf>`_) 
@@ -157,9 +157,8 @@ fixes, and users are encouraged to upgrade to the latest production release.
 ownCloud Enterprise Edition 6.0
 -------------------------------
 
-This documents the *older* ownCloud enterprise release. ownCloud 6 receives 
-only security 
-fixes, and users are encouraged to upgrade to the latest production release.
+This documents the *older* ownCloud release. ownCloud 6 is at end-of-life and 
+users are encouraged to upgrade to the latest production release.
 
 * `User Manual <https://doc.owncloud.com/server/6.0EE/user_manual/>`_ 
   (`Download 
