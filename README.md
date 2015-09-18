@@ -1,2 +1,5 @@
-# doc-index
-This repo is for editing and publishing doc.owncloud.org/index.html and doc.owncloud.com/index.html. Originally these pages were maintained in owncloud/documentation and owncloud/documentation-enterprise, which required multiple backports for every minor change. Now they have their own happy little independent repo and a single master branch. To edit this page create a new branch and then open a PR.
+# doc-index-org 
+This repo is for editing and publishing https://doc.owncloud.org/index.html. 
+Originally these pages were maintained in owncloud/documentation and 
+owncloud/documentation-enterprise, which required multiple backports for every 
+change. To edit this page create a new branch and then open a PR.
