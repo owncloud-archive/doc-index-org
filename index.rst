@@ -50,6 +50,15 @@ This documents the *previous production* version of ownCloud.
 * `Developer Manual <https://doc.owncloud.org/server/8.2/developer_manual/>`_ 
   (`Download PDF 
   <https://doc.owncloud.org/server/8.2/ownCloudDeveloperManual.pdf>`_)
+  
+====================
+Enterprise Appliance
+====================
+
+The Enterprise 9.0 Appliance is a complete virtual machine image running ownCloud 9
+Enterprise on Ubuntu Linux.
+
+`Enterprise Appliance Manual <https://doc.owncloud.com/appliance/>`_
 
 ==============================
 Desktop Client and Mobile Apps
