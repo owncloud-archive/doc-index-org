@@ -58,7 +58,7 @@ Enterprise Appliance
 The Enterprise 9.0 Appliance is a complete virtual machine image running ownCloud 9
 Enterprise on Ubuntu Linux.
 
-`Enterprise Appliance Manual <https://doc.owncloud.com/appliance/>`_
+* `Enterprise Appliance Manual <https://doc.owncloud.com/appliance/>`_
 
 ==============================
 Desktop Client and Mobile Apps
