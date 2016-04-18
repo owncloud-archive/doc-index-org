@@ -102,12 +102,6 @@
   <main class="main">
     <div class="row page-content-header">
       <div class="col-md-5 col-md-offset-7">
-      {% if theme_show_search %}
-        <form class="headersearch" style="margin-bottom:-3px;" action="{{ pathto('search') }}" method="get">
-        <input type="text" value="" name="q" id="q" class="form-control" /> 
-        <button  class="btn btn-default" type="submit" id="searchsubmit">Search</button>
-        </form>
-      {% endif %}
       </div>
     </div>
     {% block sidebartoc %}
@@ -117,7 +111,7 @@
 							<div class="menu-support-container">
 								<ul id="menu-support" class="menu">
 									<ul>
-										
+
 <li><a href="{{ pathto(master_doc) }}">Table of Contents</a></li>
 									</ul>
                   {{ toctree(maxdepth=3) }}
@@ -135,7 +129,7 @@
 					</div>
 				</div>
 			</div>
-  </main>  
+  </main>
   </div>
 </div>
 {%- endblock %}
