@@ -91,7 +91,7 @@ clients.
   <https://doc.owncloud.com/branded_clients/Building_Branded_ownCloud_Clients.pdf>`_ )
 
 ---------------------------
-ownCloud Desktop Client 2.1
+ownCloud Desktop Client 2.2
 ---------------------------
 
 The latest ownCloud desktop sync client release, suitable for production use.
