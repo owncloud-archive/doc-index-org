@@ -41,6 +41,7 @@ ownCloud 9.0
 ------------
 
 This documents the *previous production* version of ownCloud.
+
 * `User Manual <https://doc.owncloud.org/server/9.0/user_manual/>`_ (`Download
   PDF <https://doc.owncloud.org/server/9.0/ownCloud_User_Manual.pdf>`_)
 * `Administration Manual <https://doc.owncloud.org/server/9.0/admin_manual/>`_
