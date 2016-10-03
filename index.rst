@@ -21,9 +21,9 @@ reports and contributions. Please see :doc:`howto_contribute` for instructions.
 Starting with ownCloud 8.0, the community and enterprise server administration
 manuals are combined.
 
-------------
-ownCloud 9.1
-------------
+-----------------------------------
+ownCloud 9.1, Latest Stable Release
+-----------------------------------
 
 This documents the *latest production* version of ownCloud.
 
@@ -146,30 +146,3 @@ ownCloud 8.1
 * `Developer Manual <https://doc.owncloud.org/server/8.1/developer_manual/>`_
   (`Download PDF
   <https://doc.owncloud.org/server/8.1/ownCloudDeveloperManual.pdf>`_)
-
-------------
-ownCloud 8.0
-------------
-
-* `User Manual <https://doc.owncloud.org/server/8.0/user_manual/>`_ (`Download
-  PDF <https://doc.owncloud.org/server/8.0/ownCloud_User_Manual.pdf>`_)
-* `Administration Manual <https://doc.owncloud.org/server/8.0/admin_manual/>`_
-  (`Download PDF
-  <https://doc.owncloud.org/server/8.0/ownCloud_Server_Administration_Manual.pdf>`_)
-* `Developer Manual <https://doc.owncloud.org/server/8.0/developer_manual/>`_
-  (`Download PDF
-  <https://doc.owncloud.org/server/8.0/ownCloudDeveloperManual.pdf>`_)
-
-
-------------------------------
-ownCloud Community Edition 7.0
-------------------------------
-
-* `User Manual <https://doc.owncloud.org/server/7.0/user_manual/>`_ (`Download
-  PDF <https://doc.owncloud.org/server/7.0/ownCloudUserManual.pdf>`_)
-* `Administrator Manual <https://doc.owncloud.org/server/7.0/admin_manual/>`_
-  (`Download PDF
-  <https://doc.owncloud.org/server/7.0/ownCloudAdminManual.pdf>`_)
-* `Developer Manual <https://doc.owncloud.org/server/7.0/developer_manual/>`_
-  (`Download PDF
-  <https://doc.owncloud.org/server/7.0/ownCloudDeveloperManual.pdf>`_)
