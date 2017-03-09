@@ -93,11 +93,21 @@ clients.
   <https://doc.owncloud.com/branded_clients/>`_ (`Download PDF
   <https://doc.owncloud.com/branded_clients/Building_Branded_ownCloud_Clients.pdf>`_ )
 
+---------------------------------------------------
+ownCloud Desktop Client 2.3, Latest Stable Releases
+---------------------------------------------------
+
+The *latest* ownCloud desktop sync client release, suitable for production use.
+
+* `ownCloud Desktop Client Manual <https://doc.owncloud.org/desktop/2.3/>`_ 
+  (`Download PDF 
+  <https://doc.owncloud.org/desktop/2.3/ownCloudClientManual.pdf>`_)
+
 ---------------------------
 ownCloud Desktop Client 2.2
 ---------------------------
 
-The latest ownCloud desktop sync client release, suitable for production use.
+The previou ownCloud desktop sync client release, suitable for production use.
 
 * `ownCloud Desktop Client Manual <https://doc.owncloud.org/desktop/2.2/>`_
   (`Download PDF
