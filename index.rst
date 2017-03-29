@@ -25,7 +25,7 @@ Current Stable Server Release
 The administrator, user, and developer manuals for the current stable release are always at https ://doc.owncloud.org/server/latest/[manual].
 
 ------------------------------------
-ownCloud 9.1, Current Stable Release
+Latest Stable Release - ownCloud 9.1
 ------------------------------------
 
 This documents the *latest production* version of ownCloud.
@@ -39,9 +39,9 @@ This documents the *latest production* version of ownCloud.
   (`Download PDF
   <https://doc.owncloud.org/server/latest/ownCloudDeveloperManual.pdf>`_)
 
-------------
-ownCloud 9.0
-------------
+--------------------------------------
+Previous Stable Release - ownCloud 9.0
+--------------------------------------
 
 This documents the *previous production* version of ownCloud.
 
@@ -54,20 +54,20 @@ This documents the *previous production* version of ownCloud.
   (`Download PDF
   <https://doc.owncloud.org/server/9.0/ownCloudDeveloperManual.pdf>`_)
 
-------------
-ownCloud 9.2
-------------
+-----------------------------------
+Next Stable - Release ownCloud 10.0
+-----------------------------------
 
 This documents the *next* ownCloud release.
 
-* `User Manual <https://doc.owncloud.org/server/9.2/user_manual/>`_ (`Download
-  PDF <https://doc.owncloud.org/server/9.2/ownCloud_User_Manual.pdf>`_)
-* `Administration Manual <https://doc.owncloud.org/server/9.2/admin_manual/>`_
+* `User Manual <https://doc.owncloud.org/server/10.0/user_manual/>`_ (`Download
+  PDF <https://doc.owncloud.org/server/10.0/ownCloud_User_Manual.pdf>`_)
+* `Administration Manual <https://doc.owncloud.org/server/10.0/admin_manual/>`_
   (`Download PDF
-  <https://doc.owncloud.org/server/9.2/ownCloud_Server_Administration_Manual.pdf>`_)
-* `Developer Manual <https://doc.owncloud.org/server/9.2/developer_manual/>`_
+  <https://doc.owncloud.org/server/10.0/ownCloud_Server_Administration_Manual.pdf>`_)
+* `Developer Manual <https://doc.owncloud.org/server/10.0/developer_manual/>`_
   (`Download PDF
-  <https://doc.owncloud.org/server/9.2/ownCloudDeveloperManual.pdf>`_)
+  <https://doc.owncloud.org/server/10.0/ownCloudDeveloperManual.pdf>`_)
 
 ====================
 Enterprise Appliance
