@@ -43,7 +43,7 @@ This documents the *latest production* version of ownCloud.
 Previous Stable Release  - ownCloud 10.0 
 ----------------------------------------
 
-This documents the *previous production* version of ownCloud.
+This documents the *latest production* version of ownCloud.
 
 * `User Manual <https://doc.owncloud.com/server/10.0/user_manual/>`_ (`Download 
   PDF <https://doc.owncloud.com/server/10.0/ownCloud_User_Manual.pdf>`_)
