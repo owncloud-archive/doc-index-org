@@ -109,9 +109,9 @@ Older ownCloud Server Releases
 This documents the *older* ownCloud releases. Users are strongly encouraged to
 upgrade to the latest production release.
 
---------------------------------------
-Previous Stable Release - ownCloud 9.0
---------------------------------------
+------------
+ownCloud 9.0
+------------
 
 This documents the *previous production* version of ownCloud.
 
