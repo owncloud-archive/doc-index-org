@@ -39,20 +39,20 @@ This documents the latest production version of ownCloud.
   (`Download PDF 
   <https://doc.owncloud.com/server/10.0/ownCloudDeveloperManual.pdf>`_)
 
-----------------------------------------
-Previous Stable Release  - ownCloud 10.0 
-----------------------------------------
+--------------------------------------
+Previous Stable Release - ownCloud 9.1
+--------------------------------------
 
-This documents the previous production version of ownCloud.
+This documents the *previous stable* release of ownCloud.
 
-* `User Manual <https://doc.owncloud.com/server/10.0/user_manual/>`_ (`Download 
-  PDF <https://doc.owncloud.com/server/10.0/ownCloud_User_Manual.pdf>`_)
-* `Administration Manual <https://doc.owncloud.com/server/10.0/admin_manual/>`_ 
-  (`Download PDF   
-  <https://doc.owncloud.com/server/10.0/ownCloud_Server_Administration_Manual.pdf>`_)
-* `Developer Manual <https://doc.owncloud.com/server/10.0/developer_manual/>`_ 
-  (`Download PDF 
-  <https://doc.owncloud.com/server/10.0/ownCloudDeveloperManual.pdf>`_)
+* `User Manual <https://doc.owncloud.org/server/latest/user_manual/>`_ (`Download
+  PDF <https://doc.owncloud.org/server/latest/ownCloud_User_Manual.pdf>`_)
+* `Administration Manual <https://doc.owncloud.org/server/latest/admin_manual/>`_
+  (`Download PDF
+  <https://doc.owncloud.org/server/latest/ownCloud_Server_Administration_Manual.pdf>`_)
+* `Developer Manual <https://doc.owncloud.org/server/latest/developer_manual/>`_
+  (`Download PDF
+  <https://doc.owncloud.org/server/latest/ownCloudDeveloperManual.pdf>`_)
 
 ====================
 Enterprise Appliance
