@@ -28,7 +28,7 @@ The administrator, user, and developer manuals for the current stable release ar
 Latest Stable Release  - ownCloud 10.0.1
 ----------------------------------------
 
-This documents the *latest production* version of ownCloud.
+This documents the latest production version of ownCloud.
 
 * `User Manual <https://doc.owncloud.com/server/10.0/user_manual/>`_ (`Download 
   PDF <https://doc.owncloud.com/server/10.0/ownCloud_User_Manual.pdf>`_)
@@ -43,7 +43,7 @@ This documents the *latest production* version of ownCloud.
 Previous Stable Release  - ownCloud 10.0 
 ----------------------------------------
 
-This documents the *previous production* version of ownCloud.
+This documents the previous production version of ownCloud.
 
 * `User Manual <https://doc.owncloud.com/server/10.0/user_manual/>`_ (`Download 
   PDF <https://doc.owncloud.com/server/10.0/ownCloud_User_Manual.pdf>`_)
@@ -78,11 +78,11 @@ clients.
   <https://doc.owncloud.com/branded_clients/>`_ (`Download PDF
   <https://doc.owncloud.com/branded_clients/Building_Branded_ownCloud_Clients.pdf>`_ )
 
----------------------------------------------------
-ownCloud Desktop Client 2.3, Latest Stable Releases
----------------------------------------------------
+-----------------------
+ownCloud Desktop Client
+-----------------------
 
-The *latest* ownCloud desktop sync client release, suitable for production use.
+The latest ownCloud desktop sync client release, suitable for production use.
 
 * `ownCloud Desktop Client Manual <https://doc.owncloud.org/desktop/latest/>`_ 
   (`Download PDF 
@@ -106,8 +106,23 @@ ownCloud iOS App
 Older ownCloud Server Releases
 ==============================
 
-This documents the *older* ownCloud releases. Users are strongly encouraged to
-upgrade to the latest production release.
+These are the older ownCloud releases. 
+Users are strongly encouraged to upgrade to the latest production release.
+
+------------
+ownCloud 9.0
+------------
+
+This documents the previous production version of ownCloud.
+
+* `User Manual <https://doc.owncloud.org/server/9.0/user_manual/>`_ (`Download
+  PDF <https://doc.owncloud.org/server/9.0/ownCloud_User_Manual.pdf>`_)
+* `Administration Manual <https://doc.owncloud.org/server/9.0/admin_manual/>`_
+  (`Download PDF
+  <https://doc.owncloud.org/server/9.0/ownCloud_Server_Administration_Manual.pdf>`_)
+* `Developer Manual <https://doc.owncloud.org/server/9.0/developer_manual/>`_
+  (`Download PDF
+  <https://doc.owncloud.org/server/9.0/ownCloudDeveloperManual.pdf>`_)
 
 ------------
 ownCloud 8.2
