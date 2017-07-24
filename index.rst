@@ -24,9 +24,9 @@ Current Stable Server Release
 
 The administrator, user, and developer manuals for the current stable release are always at https ://doc.owncloud.org/server/latest/[manual].
 
-----------------------------------------
-Latest Stable Release  - ownCloud 10.0
-----------------------------------------
+-------------------------------------
+Latest Stable - Release ownCloud 10.0
+-------------------------------------
 
 This documents the latest production version of ownCloud.
 
