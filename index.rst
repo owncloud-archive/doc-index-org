@@ -55,12 +55,12 @@ This documents the *previous stable* release of ownCloud.
   <https://doc.owncloud.org/server/9.1/ownCloudDeveloperManual.pdf>`_)
 
 ====================
-Enterprise Appliance
+ownCloud X Appliance
 ====================
 
-The ownCloud X Enterprise Appliance is a complete virtual machine image running ownCloud X Enterprise on Ubuntu Linux.
+The ownCloud X Appliance is a complete virtual machine image running ownCloud X, on Univention Server.
 
-* `ownCloud X Enterprise Appliance Manual <https://doc.owncloud.org/server/10.0/admin_manual/enterprise/appliance/index.html>`_
+* `ownCloud X Appliance Manual <https://doc.owncloud.org/server/10.0/admin_manual/appliance/index.html>`_
 
 ==============================
 Desktop Client and Mobile Apps
