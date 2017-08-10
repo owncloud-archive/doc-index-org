@@ -22,7 +22,7 @@ reports and contributions. Please see :doc:`howto_contribute` for instructions.
 Current Stable Server Release
 -----------------------------
 
-The administrator, user, and developer manuals for the current stable release are always at https ://doc.owncloud.org/server/latest/[manual].
+The administrator, user, and developer manuals for the current stable release are always at https://doc.owncloud.org/#current-stable-server-release.
 
 ----------------------------------------
 Latest Stable Release  - ownCloud 10.0
